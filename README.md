@@ -1,4 +1,4 @@
 # UnityGitTest
-git test : 
-this respository is trying to help me understand git,
-but nothing for else
+Git testing: 
+This repository was created by me trying to understand Git,
+but anything else
